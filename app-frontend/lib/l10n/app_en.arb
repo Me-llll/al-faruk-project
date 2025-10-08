@@ -1,0 +1,10 @@
+{
+    "@@locale": "en",
+    "appSettings": "App Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "privacyPolicy": "Privacy Policy",
+    "english": "English",
+    "amharic": "Amharic",
+    "afaanOromo": "Afaan Oromo"
+}

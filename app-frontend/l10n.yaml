@@ -1,0 +1,11 @@
+# l10n.yaml
+
+# The directory where the source ARB files are located.
+arb-dir: lib/l10n
+
+# The main ARB file that serves as the template.
+template-arb-file: app_en.arb
+
+# --- THIS IS THE CRITICAL FIX ---
+# Explicitly tell the generator where to put the output files.
+output-dir: lib/generated
